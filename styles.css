@@ -9,7 +9,7 @@ body {
 
 header {
   background-color: #232d3f;
-  padding: 60px 0;
+  padding: 60px 0 20px 0;
 }
 
 .fixed-header {
@@ -54,6 +54,10 @@ img {
 
 .rounded {
   border-radius: 50%;
+}
+
+#home p {
+  margin: 30px;
 }
 
 #links ul,
