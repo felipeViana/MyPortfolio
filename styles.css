@@ -8,13 +8,13 @@ body {
 }
 
 header {
-  background-color: #001b79;
+  background-color: #5d3fd3;
   padding: 60px 0 20px 0;
 }
 
 .fixed-header {
   position: fixed;
-  background-color: #001b79;
+  background-color: #5d3fd3;
   padding: 20px 0;
 }
 
@@ -76,7 +76,7 @@ button {
 .project {
   padding: 20px 0;
   margin: 0 0 60px 0;
-  background-color: #001b79;
+  background-color: #5d3fd3;
 }
 
 .project h3 {
