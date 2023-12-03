@@ -1,5 +1,5 @@
 body {
-  background-color: #000;
+  background-color: #0d0d0d;
   color: #fff;
   font-family: Arial, sans-serif;
   text-align: center;
@@ -8,13 +8,13 @@ body {
 }
 
 header {
-  background-color: #141414;
+  background-color: #001b79;
   padding: 60px 0 20px 0;
 }
 
 .fixed-header {
   position: fixed;
-  background-color: #141414;
+  background-color: #001b79;
   padding: 20px 0;
 }
 
@@ -76,7 +76,7 @@ button {
 .project {
   padding: 20px 0;
   margin: 0 0 60px 0;
-  background-color: #141414;
+  background-color: #001b79;
 }
 
 .project h3 {
@@ -96,15 +96,15 @@ button {
 }
 
 .code-button {
-  background-color: #24292e;
-  border: 2px solid #24292e;
+  background-color: #2b3137;
+  border: 2px solid #2b3137;
   transition-duration: 0.3s;
 }
 
 .code-button:hover {
   background-color: #fff;
   color: #000;
-  border: 2px solid #24292e;
+  border: 2px solid #2b3137;
 }
 
 @media screen and (min-width: 700px) {
