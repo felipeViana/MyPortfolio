@@ -1,5 +1,5 @@
 body {
-  background-color: #0f0f0f;
+  background-color: #000;
   color: #fff;
   font-family: Arial, sans-serif;
   text-align: center;
@@ -8,13 +8,13 @@ body {
 }
 
 header {
-  background-color: #232d3f;
+  background-color: #141414;
   padding: 60px 0 20px 0;
 }
 
 .fixed-header {
   position: fixed;
-  background-color: #232d3f;
+  background-color: #141414;
   padding: 20px 0;
 }
 
@@ -50,7 +50,7 @@ nav ul li a {
 }
 
 a {
-  color: #fb2576;
+  color: #8243ff;
 }
 
 img {
@@ -65,7 +65,7 @@ img {
 .project {
   padding: 20px 0;
   margin: 60px 0;
-  background-color: #201e2b;
+  background-color: #141414;
 }
 
 .project h3 {
