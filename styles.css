@@ -158,13 +158,15 @@ a {
 }
 
 #links ul,
-#skills ul {
+#skills ul,
+#soft_skills ul {
   list-style-type: none;
   padding: 0;
 }
 
 #links ul li,
-#skills ul li {
+#skills ul li,
+#soft_skills ul {
   margin: 5px 0;
 }
 
